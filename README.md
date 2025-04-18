@@ -1,2 +1,1 @@
-# devops-android-termux
-DevOps learning repo via Termux
+# My First DevOps Practice on Android
